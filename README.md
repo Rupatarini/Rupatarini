@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,6,30&height=250&section=header&text=Rupeswari%20Tarini&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=20" />
 </div>
 
-<div align="center">
+<div align="center">   
   <a href="tarini.rupeswari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
