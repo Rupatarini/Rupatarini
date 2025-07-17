@@ -88,10 +88,12 @@ class TariniRupeswari:
 
 ## 🐍 My Contributions
 
-## 🐍 My Contributions
-
-<p align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rupatarini/Rupatarini/output/github-snake.svg" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupatarini/Rupatarini/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupatarini/Rupatarini/output/dist/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rupatarini/Rupatarini/output/dist/github-snake.svg" />
+  </picture>
+</div>
 
 
