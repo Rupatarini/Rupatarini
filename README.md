@@ -65,17 +65,16 @@ class TariniRupeswari:
 
 ## ⚡ Stats
 
-<div align="center">
+<br>
 
-  <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Rupatarini&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rupatarini's GitHub Stats" />
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Nsaisampath&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="SaiSampath's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nsaisampath&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
-  <!-- GitHub Streak Stats (with border by removing hide_border) -->
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  <!-- Most Used Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupatarini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rupatarini's Most Used Languages" />
-
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nsaisampath&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="SaiSampath's Most Used Languages" />
 </div>
+
+<hr>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rupatarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
