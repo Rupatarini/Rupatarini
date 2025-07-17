@@ -78,6 +78,14 @@ class TariniRupeswari:
 
 </div>
 
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rupatarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=blue&label=Followers" />
+  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
+</div>
+
 ## 🐍 My Contributions
 
 <div align="center">
@@ -89,13 +97,4 @@ class TariniRupeswari:
 </div>
 
 <hr>
-
-<hr>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rupatarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=blue&label=Followers" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
-</div>
-
 
