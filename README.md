@@ -68,15 +68,15 @@ class TariniRupeswari:
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rupatarini&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rupatarini's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Rupatarini's" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RUPESWARI TARINI&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rupatarini's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=transparent&count_private=true&border_radius=10&locale=en" alt="RUPESWARI TARINI's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupatarini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rupatarini's Most Used Languages" />
 </div>
 
 <hr>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rupeswaritarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rupatarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=blue&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
 </div>
