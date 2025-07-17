@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=blue&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
 </div>
-🚀 **About Me**
+ 🚀 About Me 
 
 <div align="center">
 <table>
@@ -36,3 +36,4 @@ class TariniRupeswari:
 
     def say_hi(self):
         return "Hi there! I'm excited to connect and collaborate on meaningful tech projects! "
+
