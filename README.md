@@ -50,9 +50,11 @@ class TariniRupeswari:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,postgress" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,Botpress,Wordpress" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img src="https://img.shields.io/badge/Botpress-181717?style=for-the-badge&logo=botpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
 
 <hr>
