@@ -50,8 +50,9 @@ class TariniRupeswari:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,sql,mongodb,postgress" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,numpy" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,postgress" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
 </p>
 
 <hr>
