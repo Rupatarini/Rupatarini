@@ -72,11 +72,8 @@ class TariniRupeswari:
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Rupatarini&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rupatarini's GitHub Stats" />
 
   <!-- GitHub Streak Stats (using reliable domain) -->
- <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rupatarini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
-
 
   <!-- Most Used Languages -->
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupatarini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rupatarini's Most Used Languages" />
