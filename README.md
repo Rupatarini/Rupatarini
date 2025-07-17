@@ -5,5 +5,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rupeswaritarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rupeswaritarini?style=for-the-badge&color=blue&label=Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Web%20Dev-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
 </div>
