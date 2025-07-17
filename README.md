@@ -2,13 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,6,30&height=250&section=header&text=Rupeswari%20Tarini&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=20" />
 </div>
 
-<div align="center">   
-  <a href="tarini.rupeswari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>h
-  <a href="https://www.linkedin.com/in/rupatarini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<div align="center"> 
+  <a href="mailto:saisampathnaramsetty@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
+  </a> 
+  <a href="https://linkedin.com/in/saisampath369" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
 </div>
 
 <hr>
