@@ -52,7 +52,7 @@ class TariniRupeswari:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,postgress" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,Botpress,Wordpress" />
 </p>
 
 <hr>
