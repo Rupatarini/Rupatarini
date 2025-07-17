@@ -3,13 +3,10 @@
 </div>
 
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00ADB5&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Web+Developer;Machine+Learning+Enthusiast;Exploring+New+Technologies;Open+Source+Contributor;Always+Learning+%26+Growing" alt="Typing SVG" />
   
 </div>
-
 <div align="center"> 
-  
   <a href="mailto:tarini.rupeswari@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
   </a> 
@@ -89,7 +86,7 @@ class TariniRupeswari:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rupatarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=blue&label=Followers" />
+  <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=orange&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
 </div>
 
