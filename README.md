@@ -65,20 +65,19 @@ class TariniRupeswari:
 <hr>
 ## ⚡️ Stats
 
-<br>
-
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Rupatarini&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rupatarini's GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupatarini&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rupatarini's GitHub Stats" width="390" />
 
-  <!-- GitHub Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Rupatarini's GitHub Streak Stats" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rupatarini&theme=transparent&border_radius=10&locale=en" alt="Rupatarini's GitHub Streak Stats" width="390" />
 
-  <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupatarini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rupatarini's Most Used Languages" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupatarini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="Rupatarini's Most Used Languages" width="325" />
 
 </div>
+
 
 
 <div align="center">
