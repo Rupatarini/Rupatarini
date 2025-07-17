@@ -62,16 +62,21 @@ class TariniRupeswari:
 </p>
 
 <hr>
-
 ## ⚡ Stats
 
 <br>
 
-<div align=center>
+<div align="center">
+
+  <!-- GitHub Stats -->
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Rupatarini&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rupa's GitHub Stats" />
+
+  <!-- GitHub Streak Stats -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupatarini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rupa's Most Used Languages" />
+  <!-- Most Used Languages -->
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupatarini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rupa's Most Used Languages" />
+
 </div>
 
 <hr>
