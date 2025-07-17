@@ -5,7 +5,7 @@
 <div align="center">   
   <a href="tarini.rupeswari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  </a>h
   <a href="https://www.linkedin.com/in/rupatarini" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
