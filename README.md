@@ -71,16 +71,13 @@ class TariniRupeswari:
   <!-- GitHub Stats -->
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Rupatarini&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Rupatarini's GitHub Stats" />
 
-  <!-- GitHub Streak Stats (using reliable domain) -->
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
+  <!-- GitHub Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupatarini&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
   <!-- Most Used Languages -->
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupatarini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Rupatarini's Most Used Languages" />
 
 </div>
-
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rupatarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
