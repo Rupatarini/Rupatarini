@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=blue&label=Followers" />
   <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
 </div>
- 🚀 About Me 
+## 🚀 About Me
 
 <div align="center">
 <table>
@@ -15,8 +15,8 @@
 <td width="60%">
 
 ```python
-class TariniRupeswari:
-    def _init_(self):
+class Myself: 
+    def __init__(self):
         self.name = "Tarini Rupeswari"
         self.role = "Web Developer & ML Enthusiast"
         self.location = "Visakhapatnam, India 🇮🇳"
@@ -24,16 +24,17 @@ class TariniRupeswari:
         self.graduation = "2026"
         self.cgpa = "8.41"
         self.previous_education = {
-            "Diploma (CSE)": "88% - Govt. Polytechnic for Women, Srikakulam",
+            "Diploma (CSE)": "87.23% - Govt. Polytechnic for Women, Srikakulam",
             "SSC": "96.5% - Shree Vidya High School"
         }
         self.current_focus = [
-            "Machine Learning",
-            "Ethical Hacking",
-            "Android Development",
-            "Web Technologies: HTML, CSS, Django"
+            "Software Development",
+            "Web Development",
+            "Problem Solving",
+            "Database Management",
+            "Leadership & Teamwork",
+            "Communication"
         ]
 
     def say_hi(self):
-        return "Hi there! I'm excited to connect and collaborate on meaningful tech projects! "
-
+        return "Hi there! I'm excited to connect and collaborate on meaningful tech projects! 💻✨"
