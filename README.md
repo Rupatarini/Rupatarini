@@ -3,10 +3,21 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rupeswaritarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=blue&label=Followers" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
+  <a href="chijiokeokorji@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://medium.com/@chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://codepen.io/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  </a>
 </div>
+
+<hr>
 
 ## 🚀 About Me
 
@@ -45,7 +56,7 @@ class TariniRupeswari:
 </table>
 </div>
 
-## 🛠 Languages and Tools
+## 🛠 TechTool Box
 
 <br>
 
@@ -58,3 +69,10 @@ class TariniRupeswari:
 
 
 <hr>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rupeswaritarini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rupatarini?style=for-the-badge&color=blue&label=Followers" />
+  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-blue?style=for-the-badge" />
+</div>
