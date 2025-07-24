@@ -12,7 +12,9 @@
   </a> 
   <a href="https://linkedin.com/in/rupatarini" target="blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" /> 
- <p><a href="https://rupeswari.netlify.app" target="_blank" rel="noopener noreferrer">rupeswari.netlify.app</a></p> 
+  <a href="https://rupeswari.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <hr>
