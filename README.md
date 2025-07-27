@@ -194,13 +194,17 @@ class TariniRupeswari:
 ---
 
 <div align="center">
-  <blockquote>
-    <h3>💬 "Keep pushing forward. You never know what masterpiece you’re coding into reality."</h3>
-    <br>
-    <p align="right"><i>— Anonymous</i></p>
-  </blockquote>
-</div>
+  <table style="border: 2px solid #00ADB5; border-radius: 10px; padding: 20px; background-color: #0f0f0f; color: #ffffff;">
+    <tr>
+      <td>
 
+<h3 align="center">💬 <i>"Keep pushing forward. You never know what masterpiece you’re coding into reality."</i></h3>
+<p align="right">— Anonymous</p>
+
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
