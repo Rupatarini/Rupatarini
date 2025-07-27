@@ -68,9 +68,11 @@ class TariniRupeswari:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Botpress-181717?style=for-the-badge&logo=botpress&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
 </td>
 </tr>
 </table>
