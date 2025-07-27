@@ -58,6 +58,10 @@ class TariniRupeswari:
 </div>
 
 ## 🛠 TechTool Box
+<div align="center">
+<table>
+<tr>
+<td width="60%">
 
 <br>
 
@@ -67,7 +71,10 @@ class TariniRupeswari:
   <img src="https://img.shields.io/badge/Botpress-181717?style=for-the-badge&logo=botpress&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
-
+</td>
+</tr>
+</table>
+</div>
 <hr>
 
 ## 🚀 Featured Projects
