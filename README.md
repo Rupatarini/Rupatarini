@@ -193,8 +193,13 @@ class TariniRupeswari:
 
 ---
 
-### 💬 *"Keep pushing forward. You never know what masterpiece you’re coding into reality."*  
-<div align="right">— Anonymous</div>
+<div align="center">
+  <blockquote>
+    <h3>💬 "Keep pushing forward. You never know what masterpiece you’re coding into reality."</h3>
+    <br>
+    <p align="right"><i>— Anonymous</i></p>
+  </blockquote>
+</div>
 
 
 
