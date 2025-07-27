@@ -191,5 +191,11 @@ class TariniRupeswari:
   </picture>
 </div>
 
+---
+
+### 💬 *"Keep pushing forward. You never know what masterpiece you’re coding into reality."*  
+<div align="right">— Anonymous</div>
+
+
 
 
