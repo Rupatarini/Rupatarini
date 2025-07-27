@@ -70,35 +70,82 @@ class TariniRupeswari:
 
 <hr>
 
-## 💼 Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🔹 [🛒 Amazon Clone Website](https://github.com/Rupatarini/Amazone_Website)
+<table>
+  <tr>
+    <!-- Amazon Website Clone -->
+    <td width="50%" valign="top">
+      
+### 🛒 Amazon Clone Website  
+<a href="https://github.com/Rupatarini/Amazone_Website">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+<br>
+<span>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</span>
 
-[![GitHub Code](https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Rupatarini/Amazone_Website)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Not%20Available-lightgrey?style=for-the-badge)](https://github.com/Rupatarini/Amazone_Website)
+**Key Features:**
+- 🛍️ Amazon-like product layout
+- 📱 Responsive design
+- 🧭 Interactive navigation bar
 
-**Tech Stack**: `HTML` `CSS` `JavaScript`  
-🛍️ A responsive front-end clone of Amazon that mimics product listings, layout design, header navigation, and basic interactivity.
+</td>
 
----
+<!-- Face Detection System -->
+<td width="50%" valign="top">
 
-### 🔹 [🧠 Face Detection System](https://github.com/Rupatarini/FACE_DETECTION)
+### 🧠 Face Detection System  
+<a href="https://github.com/Rupatarini/FACE_DETECTION">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+<br>
+<span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</span>
 
-[![GitHub Code](https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Rupatarini/FACE_DETECTION)
+**Key Features:**
+- 👁️ Real-time face detection
+- 🖥️ Webcam input using OpenCV
+- 🧠 Haar cascade classifier
 
-**Tech Stack**: `Python` `OpenCV`  
-📷 A computer vision application that detects human faces in real-time using Haar Cascade classifiers via webcam stream.
+</td>
+  </tr>
 
----
+  <tr>
+    <!-- Speech-to-Text Converter -->
+    <td width="50%" valign="top">
 
-### 🔹 [🎙️ Speech to Text Converter](https://github.com/Rupatarini/Speech-To-Text-Convertor)
+### 🎙️ Speech to Text Converter  
+<a href="https://github.com/Rupatarini/Speech-To-Text-Convertor">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+<br>
+<span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpeechRecognition-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyAudio-00599C?style=for-the-badge"/>
+</span>
 
-[![GitHub Code](https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Rupatarini/Speech-To-Text-Convertor)
+**Key Features:**
+- 🎤 Real-time audio input
+- ✍️ Accurate speech-to-text conversion
+- 🛠️ Easy to integrate with other tools
 
-**Tech Stack**: `Python` `SpeechRecognition` `PyAudio`  
-🗣️ Converts real-time speech into text using a microphone input. Useful for note-taking, accessibility tools, or transcription.
+</td>
+
+<!-- Add more projects here if needed -->
+<td width="50%" valign="top">
+<!-- Empty or Add New Project -->
+</td>
+  </tr>
+</table>
 
 </div>
 
