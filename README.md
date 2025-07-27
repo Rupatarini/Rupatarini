@@ -69,6 +69,39 @@ class TariniRupeswari:
 </p>
 
 <hr>
+
+## 💼 Projects
+
+<div align="center">
+
+### 🔹 [🛒 Amazon Clone Website](https://github.com/Rupatarini/Amazone_Website)
+
+[![GitHub Code](https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Rupatarini/Amazone_Website)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Not%20Available-lightgrey?style=for-the-badge)](https://github.com/Rupatarini/Amazone_Website)
+
+**Tech Stack**: `HTML` `CSS` `JavaScript`  
+🛍️ A responsive front-end clone of Amazon that mimics product listings, layout design, header navigation, and basic interactivity.
+
+---
+
+### 🔹 [🧠 Face Detection System](https://github.com/Rupatarini/FACE_DETECTION)
+
+[![GitHub Code](https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Rupatarini/FACE_DETECTION)
+
+**Tech Stack**: `Python` `OpenCV`  
+📷 A computer vision application that detects human faces in real-time using Haar Cascade classifiers via webcam stream.
+
+---
+
+### 🔹 [🎙️ Speech to Text Converter](https://github.com/Rupatarini/Speech-To-Text-Convertor)
+
+[![GitHub Code](https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Rupatarini/Speech-To-Text-Convertor)
+
+**Tech Stack**: `Python` `SpeechRecognition` `PyAudio`  
+🗣️ Converts real-time speech into text using a microphone input. Useful for note-taking, accessibility tools, or transcription.
+
+</div>
+
 ## ⚡ Stats
 
 <br>
