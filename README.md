@@ -107,26 +107,49 @@ class TariniRupeswari:
 
 </td>
 
-<!-- Face Detection System -->
+<!--SkillBridge-AI-->
 <td width="50%" valign="top">
 
-### 🧠 Face Detection System  
-<a href="https://github.com/Rupatarini/FACE_DETECTION">
+### 🤖 SkillBridge AI – Student Screening Platform  
+<a href="https://github.com/Rupatarini/SkillBridgeAi">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 <br>
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Resume%20Analysis-4CAF50?style=for-the-badge"/>
 </span>
 
 **Key Features:**
-- 👁️ Real-time face detection
-- 🖥️ Webcam input using OpenCV
-- 🧠 Haar cascade classifier
+- 📄 Resume text extraction & skill analysis
+- 📊 AI-based readiness scoring (0–100)
+- 🎯 Eligibility prediction for job roles
+- 🚀 Smart screening automation
 
 </td>
-  </tr>
+<td width="50%" valign="top">
+
+### 🧠 RAG System – Intelligent Q&A Assistant  
+<a href="https://github.com/Rupatarini/YOUR-RAG-REPO">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+<br>
+<span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Database-FF4081?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-00C853?style=for-the-badge"/>
+</span>
+
+**Key Features:**
+- 📚 Document-based intelligent retrieval
+- 🔎 Context-aware answer generation
+- ⚡ Fast semantic search using embeddings
+- 🤖 Powered by Large Language Models
+
+</td>
 
   <tr>
     <!-- Speech-to-Text Converter -->
