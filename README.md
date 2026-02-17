@@ -72,55 +72,76 @@ class TariniRupeswari:
 
 # 🚀 Featured Projects
 
-## 🛒 Amazon Clone Website  
-🔗 https://github.com/Rupatarini/Amazone_Website  
+<div align="center">
 
-**Tech Stack:** HTML • CSS • JavaScript  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Features:**
-- Amazon-like product layout  
-- Responsive design  
-- Interactive navigation bar  
+### 🛒 Amazon Clone Website  
+🔗 [View Repository](https://github.com/Rupatarini/Amazone_Website)
 
----
+**Tech Stack:**  
+HTML • CSS • JavaScript  
 
-## 🤖 SkillBridge AI – Student Screening Platform  
-🔗 https://github.com/Rupatarini/SkillBridgeAi  
+**Highlights:**  
+• Amazon-like product layout  
+• Responsive UI  
+• Interactive navigation  
 
-**Tech Stack:** Python • NLP • Machine Learning  
+</td>
 
-**Features:**
-- Resume text extraction & skill analysis  
-- AI-based readiness scoring  
-- Eligibility prediction for job roles  
-- Smart screening automation  
+<td width="50%" valign="top">
 
----
+### 🤖 SkillBridge AI  
+🔗 [View Repository](https://github.com/Rupatarini/SkillBridgeAi)
 
-## 🧠 RAG System – Intelligent Q&A Assistant  
-🔗 https://github.com/Rupatarini/YOUR-RAG-REPO  
+**Tech Stack:**  
+Python • NLP • Machine Learning  
 
-**Tech Stack:** Python • LangChain • Vector Database • LLM  
+**Highlights:**  
+• Resume skill extraction  
+• AI readiness scoring  
+• Job eligibility prediction  
 
-**Features:**
-- Document-based intelligent retrieval  
-- Context-aware answer generation  
-- Fast semantic search  
-- Powered by Large Language Models  
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-## 🎙️ Speech to Text Converter  
-🔗 https://github.com/Rupatarini/Speech-To-Text-Convertor  
+### 🧠 RAG System – Intelligent Q&A  
+🔗 [View Repository](https://github.com/Rupatarini/YOUR-RAG-REPO)
 
-**Tech Stack:** Python • SpeechRecognition • PyAudio  
+**Tech Stack:**  
+Python • LangChain • Vector DB • LLM  
 
-**Features:**
-- Real-time audio input  
-- Accurate speech-to-text conversion  
-- Easy integration  
+**Highlights:**  
+• Context-aware retrieval  
+• Semantic search  
+• Document-based Q&A  
 
----
+</td>
+
+<td width="50%" valign="top">
+
+### 🎙️ Speech to Text Converter  
+🔗 [View Repository](https://github.com/Rupatarini/Speech-To-Text-Convertor)
+
+**Tech Stack:**  
+Python • SpeechRecognition • PyAudio  
+
+**Highlights:**  
+• Real-time speech input  
+• Accurate transcription  
+• Easy integration  
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 # ⚡ GitHub Stats
 
