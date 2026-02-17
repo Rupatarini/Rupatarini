@@ -156,10 +156,6 @@ Frontend • Firebase Firestore • Firebase Auth • Vercel
 • Status transition validation (Open → In Progress → Done)  
 • Production deployment on Vercel  
 
-</td>
-</tr>
-
-
 <td width="50%" valign="top">
 <!-- You can add future project here -->
 </td>
