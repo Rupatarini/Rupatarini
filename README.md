@@ -138,6 +138,33 @@ Python • SpeechRecognition • PyAudio
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Smart Issue Board – Full Stack Issue Tracker  
+🔗 [View Repository](https://github.com/Rupatarini/smart-issue-board)
+
+**Tech Stack:**  
+Frontend • Firebase Firestore • Firebase Auth • Vercel  
+
+**Core Features:**  
+• User authentication (Firebase Email/Password)  
+• Create issues with title, description, priority & status  
+• Smart suggestion assistant for issue resolution  
+• Filter issues by status & priority  
+• Status transition validation (Open → In Progress → Done)  
+• Production deployment on Vercel  
+
+</td>
+</tr>
+
+
+<td width="50%" valign="top">
+<!-- You can add future project here -->
+</td>
+</tr>
+
 </table>
 
 </div>
